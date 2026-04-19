@@ -304,7 +304,7 @@ export default function App() {
             <a href="https://discord.gg/3FJRNK7UAK" target="_blank" rel="noopener noreferrer" className="text-gray-500 hover:text-white transition-colors uppercase text-[10px] font-bold tracking-widest flex items-center gap-2">
               <MessageSquare size={14} /> Discord
             </a>
-            <a href="#" className="text-gray-500 hover:text-white transition-colors uppercase text-[10px] font-bold tracking-widest flex items-center gap-2">
+            <a href="https://www.instagram.com/cursed_heaven07/?utm_source=ig_web_button_share_sheet" target="_blank" rel="noopener noreferrer" className="text-gray-500 hover:text-white transition-colors uppercase text-[10px] font-bold tracking-widest flex items-center gap-2">
               <Instagram size={14} /> Instagram
             </a>
           </div>
